@@ -6,3 +6,8 @@ FROM
 	Invoice
 WHERE
 	InvoiceDate >= "2011-01-01" AND InvoiceDate <= "2012-12-31"
+	
+	
+/* How much money did WSDA Music make during the same period? */ 
+
+Select
